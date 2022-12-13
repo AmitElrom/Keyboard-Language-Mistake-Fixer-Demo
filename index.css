@@ -1,0 +1,13 @@
+.div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#select-language,
+#input1 {
+  width: 20%;
+  height: 2rem;
+  font-size: medium;
+  margin: 1rem;
+}
